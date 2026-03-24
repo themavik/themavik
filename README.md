@@ -1,23 +1,22 @@
 <div align="center">
 
-<pre style="font-family: monospace; color: #FFFFFF; background-color: #00000000; font-weight: bold; font-size: 13px; line-height: 1.2; text-align: left; display: inline-block; padding: 20px; border: 1px solid #444; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-╭────────────────────────────────────────────────────────────────────────╮
-│  🔴 🟡 🟢  ~ /system/architect/profile                                 │
-├────────────────────────────────────────────────────────────────────────┤
-│                                                                        │
-│   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗                │
-│   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║                │
-│   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║                │
-│   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║                │
-│   ███████╗   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║                │
-│   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝                │
-│                                                                        │
-│   A R C H I T E C T U R E   //   I N F R A S T R U C T U R E           │
-│                                                                        │
-│   > STATUS: Online                                                     │
-│   > PROTOCOLS: AI, Web3, Distributed Systems, iOS Native               │
-│                                                                        │
-╰────────────────────────────────────────────────────────────────────────╯
+<pre style="font-family: monospace; color: #E0E0E0; background-color: #0d1117; font-weight: bold; font-size: 13px; line-height: 1.3; text-align: left; display: inline-block; padding: 25px; border: 1px solid #30363D; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  🔴 🟡 🟢  ~ /system/architect/mohit                                                                   │
+├────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                        │
+│   ███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗    ██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗    ██╗ █████╗ ██╗   │
+│   ████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝    ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██║    ██║██╔══██╗██║   │
+│   ██╔████╔██║██║   ██║███████║██║   ██║█████╗ ██████╔╝ ╚████╔╝ ███████║██║  ██║██║ █╗ ██║███████║██║   │
+│   ██║╚██╔╝██║██║   ██║██╔══██║██║   ██║╚════╝ ██╔══██╗  ╚██╔╝  ██╔══██║██║  ██║██║███╗██║██╔══██║██║   │
+│   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║       ██████╔╝   ██║   ██║  ██║██████╔╝╚███╔███╔╝██║  ██║██████│
+│   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═════│
+│                                                                                                        │
+│   > ROLE: Platform Architect & Tech Leader                                                             │
+│   > DOMAINS: AI Inference, Web3, Distributed Systems, iOS Native                                       │
+│   > LOCATION: Delaware, United States                                                                  │
+│                                                                                                        │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 </pre>
 
 <br/><br/>
@@ -27,7 +26,7 @@
 
 <!-- Grayscale Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&lines=System+Architecture+%26+Protocol+Design;AI+%26+Inference+Pipelines;Web3+%26+Blockchain+Infrastructure;Backend,+Frontend,+UI,+%26+Swift" alt="Focus Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A3A3A3&center=true&vCenter=true&width=700&lines=Platform+Architect+%26+Tech+Leader;Building+AI+%26+Decentralized+Infrastructure;EVP+Research+%40+Autheo;Founding+Research+Engineer+%40+Mavik+Labs" alt="Focus Areas" />
 </a>
 
 </div>
@@ -35,63 +34,65 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&width=100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
 </div>
 
 ### ▨ TECHNICAL FOUNDATION
 <div align="center">
-  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=ffffff&color=00000000" alt="AI" />
-  <img src="https://img.shields.io/badge/Infrastructure-000000?style=flat-square&logo=terraform&logoColor=ffffff&color=00000000" alt="Infrastructure" />
-  <img src="https://img.shields.io/badge/Backend-000000?style=flat-square&logo=nodedotjs&logoColor=ffffff&color=00000000" alt="Backend" />
-  <img src="https://img.shields.io/badge/Frontend-000000?style=flat-square&logo=react&logoColor=ffffff&color=00000000" alt="Frontend" />
-  <img src="https://img.shields.io/badge/UI/UX-000000?style=flat-square&logo=figma&logoColor=ffffff&color=00000000" alt="UI" />
-  <img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=ffffff&color=00000000" alt="Swift" />
-  <img src="https://img.shields.io/badge/Web3-000000?style=flat-square&logo=ethereum&logoColor=ffffff&color=00000000" alt="Web3" />
-  <img src="https://img.shields.io/badge/Blockchain-000000?style=flat-square&logo=solidity&logoColor=ffffff&color=00000000" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="AI" />
+  <img src="https://img.shields.io/badge/Infrastructure-0d1117?style=flat-square&logo=terraform&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=nodedotjs&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-0d1117?style=flat-square&logo=react&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Frontend" />
+  <img src="https://img.shields.io/badge/UI/UX-0d1117?style=flat-square&logo=figma&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="UI" />
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Swift" />
+  <img src="https://img.shields.io/badge/Web3-0d1117?style=flat-square&logo=ethereum&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Web3" />
+  <img src="https://img.shields.io/badge/Blockchain-0d1117?style=flat-square&logo=solidity&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Blockchain" />
   <br/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ffffff&color=00000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=ffffff&color=00000000" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff&color=00000000" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff&color=00000000" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=ffffff&color=00000000" alt="AWS" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=ffffff&color=00000000" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=ffffff&color=00000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Docker" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&width=100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse;">
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>▨ OPEN SOURCE CONTRIBUTIONS</h3>
-      <p><i>Active reviewer and contributor across core ecosystem repositories.</i></p>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>► <b>[core/crosschain-relayer]</b> — <a href="#">Core Contributor</a><br/><span style="color: #888;">Architected consensus verifiers and rust relays.</span></li>
-        <li>► <b>[ai/inference-engine]</b> — <a href="#">Reviewer & Maintainer</a><br/><span style="color: #888;">Optimized batched inference queues for LLMs.</span></li>
-        <li>► <b>[web3/identity-protocol]</b> — <a href="#">Contributor</a><br/><span style="color: #888;">Implemented ZK proofs for on-chain identity.</span></li>
-        <li>► <b>[ui/headless-system]</b> — <a href="#">Contributor</a><br/><span style="color: #888;">Built accessible primitives.</span></li>
-        <li>► <b>[backend/micro-orchestrator]</b> — <a href="#">Reviewer</a><br/><span style="color: #888;">Reviewed gRPC routing logic and scale tests.</span></li>
+    <td width="55%" valign="top" style="border: none;">
+      <h3>▨ RECENT OPEN SOURCE CONTRIBUTIONS</h3>
+      <p><i>Contributions across major AI, Data, and System frameworks.</i></p>
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/BerriAI/litellm" style="color: #58A6FF; text-decoration: none;">BerriAI/litellm</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">Call 100+ LLM APIs using the OpenAI format.</span></li>
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/langchain-ai/langchain" style="color: #58A6FF; text-decoration: none;">langchain-ai/langchain</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">Building applications with LLMs through composability.</span></li>
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/astral-sh/uv" style="color: #58A6FF; text-decoration: none;">astral-sh/uv</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">An extremely fast Python package and project manager.</span></li>
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/confident-ai/deepeval" style="color: #58A6FF; text-decoration: none;">confident-ai/deepeval</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">The LLM evaluation framework.</span></li>
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/gitbutlerapp/gitbutler" style="color: #58A6FF; text-decoration: none;">gitbutlerapp/gitbutler</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">A Git client for simultaneous branches.</span></li>
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/payloadcms/payload" style="color: #58A6FF; text-decoration: none;">payloadcms/payload</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">The best way to build a modern backend + admin UI.</span></li>
+        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/keephq/keep" style="color: #58A6FF; text-decoration: none;">keephq/keep</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">Open-source alert management and AIOps platform.</span></li>
       </ul>
     </td>
-    <td width="45%" valign="top">
+    <td width="45%" valign="top" style="border: none;">
       <h3>▨ CORE DOMAINS</h3>
-      <blockquote>
-        <b>AI & Autonomous Agents:</b> <br/><span style="color: #888;">RAG pipelines, vector DBs, orchestration engines, agentic applications.</span>
+      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
+        <b>AI & Autonomous Agents:</b> <br/><span style="color: #8B949E; font-size: 13px;">RAG pipelines, vector DBs, orchestration engines, agentic applications.</span>
       </blockquote>
-      <blockquote>
-        <b>Distributed Systems:</b> <br/><span style="color: #888;">L1 protocols, consensus mechanics, cross-chain bridging, Web3 infra.</span>
+      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
+        <b>Distributed Systems:</b> <br/><span style="color: #8B949E; font-size: 13px;">L1 protocols, consensus mechanics, cross-chain bridging, Web3 infra.</span>
       </blockquote>
-      <blockquote>
-        <b>Full-Stack & Swift:</b> <br/><span style="color: #888;">Scalable backends, complex UI implementation, iOS native dev.</span>
+      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
+        <b>Full-Stack & Swift:</b> <br/><span style="color: #8B949E; font-size: 13px;">Scalable backends, complex UI implementation, iOS native dev.</span>
       </blockquote>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&width=100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
 </div>
 
 ### ▨ METRICS & ACTIVITY
@@ -164,22 +165,22 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&width=100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
 </div>
 
 ### ▨ COMM LINKS
 
 <div align="center">
-  <a href="https://github.com/themavik"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff&color=00000000" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnometerminal&logoColor=ffffff&color=00000000" alt="Terminal" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Protocol-000000?style=flat-square&logo=webrtc&logoColor=ffffff&color=00000000" alt="Protocol" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Network-000000?style=flat-square&logo=torproject&logoColor=ffffff&color=00000000" alt="Network" /></a>
+  <a href="https://github.com/themavik"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Terminal-0d1117?style=flat-square&logo=gnometerminal&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Terminal" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Protocol-0d1117?style=flat-square&logo=webrtc&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Protocol" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Network-0d1117?style=flat-square&logo=torproject&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Network" /></a>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer&text=EOF&fontSize=24&fontColor=ffffff&fontAlignY=40">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=100&section=footer&text=EOF&fontSize=24&fontColor=000000&fontAlignY=40">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer&text=EOF&fontSize=24&fontColor=ffffff&fontAlignY=40" width="100%" alt="Footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=30363D&height=80&section=footer&text=EOF&fontSize=24&fontColor=ffffff&fontAlignY=40">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=80&section=footer&text=EOF&fontSize=24&fontColor=000000&fontAlignY=40">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=30363D&height=80&section=footer&text=EOF&fontSize=24&fontColor=ffffff&fontAlignY=40" width="100%" alt="Footer" />
   </picture>
 </div>
