@@ -1,22 +1,46 @@
 <div align="center">
 
-<pre style="font-family: monospace; color: #E0E0E0; background-color: #0d1117; font-weight: bold; font-size: 13px; line-height: 1.3; text-align: left; display: inline-block; padding: 25px; border: 1px solid #30363D; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
-╭────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│  🔴 🟡 🟢  ~ /system/architect/mohit                                                                   │
-├────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                        │
-│   ███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗    ██████╗ ██╗   ██╗ █████╗ ██████╗ ██╗    ██╗ █████╗ ██╗   │
-│   ████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝    ██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██║    ██║██╔══██╗██║   │
-│   ██╔████╔██║██║   ██║███████║██║   ██║█████╗ ██████╔╝ ╚████╔╝ ███████║██║  ██║██║ █╗ ██║███████║██║   │
-│   ██║╚██╔╝██║██║   ██║██╔══██║██║   ██║╚════╝ ██╔══██╗  ╚██╔╝  ██╔══██║██║  ██║██║███╗██║██╔══██║██║   │
-│   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║       ██████╔╝   ██║   ██║  ██║██████╔╝╚███╔███╔╝██║  ██║██████│
-│   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═════│
-│                                                                                                        │
-│   > ROLE: Platform Architect & Tech Leader                                                             │
-│   > DOMAINS: AI Inference, Web3, Distributed Systems, iOS Native                                       │
-│   > LOCATION: Delaware, United States                                                                  │
-│                                                                                                        │
-╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+<pre style="font-family: monospace; color: #E0E0E0; background-color: #0d1117; font-weight: bold; font-size: 10px; line-height: 1.1; text-align: left; display: inline-block; padding: 25px; border: 1px solid #30363D; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  🔴 🟡 🟢  ~ /system/architect/mavik                                                                 │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│  @#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=│
+│  +**************************************************************************************************+│
+│  |/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*|│
+│  +--------------------------------------------------------------------------------------------------+│
+│  |          ::: I S O M E T R I C   B U S   M A T R I X   ::  1 0 0 - C O L   F R A M E ::          |│
+│  +==================================================================================================+│
+│  |+-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-|│
+│  |    #################.#################.#################.#################.#################     |│
+│  |    @@.............@@.......@@@@@.......@@.............@@....@@@@@@@@@@@....@@...........@@..     |│
+│  |    @@@...........@@@......@@@@@@@......@@@...........@@@....@@@@@@@@@@@....@@..........@@...     |│
+│  |    @@@@.........@@@@.....@@@@@@@@@.....@@@@.........@@@@....@@@@@@@@@@@....@@.........@@....     |│
+│  |    @@@@@.......@@@@@....@@@@@@@@@@@....@@@@@.......@@@@@.......@@@@@.......@@........@@.....     |│
+│  |    @@@@@@.....@@@@@@...@@@@@@@@@@@@@...@@@@@@.....@@@@@@.......@@@@@.......@@.......@@......     |│
+│  |    @@@@@@@...@@@@@@@...@@@@@@@@@@@@@....@@@@.....@@@@..........@@@@@.......@@......@@.......     |│
+│  |    @@@@@@@@.@@@@@@@@...@@@@@...@@@@@.....@@@.....@@@...........@@@@@.......@@.....@@........     |│
+│  |    @@.@@@.@@@.@@@.@@...@@@@@...@@@@@......@@.....@@............@@@@@.......@@...@@@.........     |│
+│  |    @@..@@...@@...@@....@@@@@@@@@@@@@.......@.....@.............@@@@@.......@@@@@@@@.........     |│
+│  |    @@..@.....@...@@....@@@@@@@@@@@@@.......@@...@@.............@@@@@.......@@...@@@@........     |│
+│  |    @@............@@....@@@@@@@@@@@@@.......@@@.@@@.............@@@@@.......@@....@@@........     |│
+│  |    @@............@@....@@@@@...@@@@@........@@@@@..............@@@@@.......@@.....@@@.......     |│
+│  |    @@............@@....@@@@@...@@@@@.........@@@............@@@@@@@@@@@....@@......@@@......     |│
+│  |    @@............@@...@@@@@.....@@@@@.........@.............@@@@@@@@@@@....@@.......@@@.....     |│
+│  |    @@............@@...@@@@@.....@@@@@.......................@@@@@@@@@@@....@@........@@@....     |│
+│  |    @@............@@..@@@@@@@@@@@@@@@@@...................@@@@@@@@@@@@@@@@@.@@.........@@@...     |│
+│  |    ##............##..#################.#################.#################.#################     |│
+│  +--------------------------------------------------------------------------------------------------+│
+│  |      `^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^'      |│
+│  +==================================================================================================+│
+│  |             0xDE 0xAD 0xBE 0xEF  |  TRACE_OK  |  LANE[0..7] = {~~~~~~~~}  |  CRC:OK              |│
+│  +**************************************************************************************************+│
+│  @#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=│
+│                                                                                                      │
+│   > ROLE: Platform Architect & Tech Leader                                                           │
+│   > DOMAINS: AI Inference, Web3, Distributed Systems, iOS Native                                     │
+│   > LOCATION: Delaware, United States                                                                │
+│                                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯
 </pre>
 
 <br/><br/>
@@ -61,31 +85,50 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
 </div>
 
+### ▨ POLYGLOT OPEN SOURCE CONTRIBUTIONS
+<p><i>My contribution footprint spans multiple paradigms, frameworks, and core languages. Here is a breakdown of the production repositories I help build and maintain:</i></p>
+
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="55%" valign="top" style="border: none;">
-      <h3>▨ RECENT OPEN SOURCE CONTRIBUTIONS</h3>
-      <p><i>Contributions across major AI, Data, and System frameworks.</i></p>
-      <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/BerriAI/litellm" style="color: #58A6FF; text-decoration: none;">BerriAI/litellm</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">Call 100+ LLM APIs using the OpenAI format.</span></li>
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/langchain-ai/langchain" style="color: #58A6FF; text-decoration: none;">langchain-ai/langchain</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">Building applications with LLMs through composability.</span></li>
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/astral-sh/uv" style="color: #58A6FF; text-decoration: none;">astral-sh/uv</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">An extremely fast Python package and project manager.</span></li>
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/confident-ai/deepeval" style="color: #58A6FF; text-decoration: none;">confident-ai/deepeval</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">The LLM evaluation framework.</span></li>
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/gitbutlerapp/gitbutler" style="color: #58A6FF; text-decoration: none;">gitbutlerapp/gitbutler</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">A Git client for simultaneous branches.</span></li>
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/payloadcms/payload" style="color: #58A6FF; text-decoration: none;">payloadcms/payload</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">The best way to build a modern backend + admin UI.</span></li>
-        <li style="margin-bottom: 8px;">► <b><a href="https://github.com/keephq/keep" style="color: #58A6FF; text-decoration: none;">keephq/keep</a></b> — Contributor<br/><span style="color: #8B949E; font-size: 13px;">Open-source alert management and AIOps platform.</span></li>
-      </ul>
+    <td width="50%" valign="top" style="border: none;">
+      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0; margin-bottom: 20px;">
+        <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Rust" /> <br/>
+        <b>Systems & Performance:</b> <br/>
+        <span style="color: #8B949E; font-size: 13px;">
+          ► <b><a href="https://github.com/astral-sh/uv" style="color: #58A6FF; text-decoration: none;">astral-sh/uv</a></b> (Extremely fast Python package manager)<br/>
+          ► <b><a href="https://github.com/gitbutlerapp/gitbutler" style="color: #58A6FF; text-decoration: none;">gitbutlerapp/gitbutler</a></b> (Concurrent branching Git client)<br/>
+          ► <b><a href="https://github.com/meilisearch/meilisearch" style="color: #58A6FF; text-decoration: none;">meilisearch/meilisearch</a></b> (Lightning-fast search engine)
+        </span>
+      </blockquote>
+      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="TypeScript" /> <br/>
+        <b>Web3, Infra & Full-Stack:</b> <br/>
+        <span style="color: #8B949E; font-size: 13px;">
+          ► <b><a href="https://github.com/payloadcms/payload" style="color: #58A6FF; text-decoration: none;">payloadcms/payload</a></b> (Modern headless CMS)<br/>
+          ► <b><a href="https://github.com/Infisical/infisical" style="color: #58A6FF; text-decoration: none;">Infisical/infisical</a></b> (Open-source secret management)<br/>
+          ► <b><a href="https://github.com/hyperdxio/hyperdx" style="color: #58A6FF; text-decoration: none;">hyperdxio/hyperdx</a></b> (Open-source observability)
+        </span>
+      </blockquote>
     </td>
-    <td width="45%" valign="top" style="border: none;">
-      <h3>▨ CORE DOMAINS</h3>
-      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
-        <b>AI & Autonomous Agents:</b> <br/><span style="color: #8B949E; font-size: 13px;">RAG pipelines, vector DBs, orchestration engines, agentic applications.</span>
+    <td width="50%" valign="top" style="border: none;">
+      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0; margin-bottom: 20px;">
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Python" /> <br/>
+        <b>AI Inference & RAG Pipelines:</b> <br/>
+        <span style="color: #8B949E; font-size: 13px;">
+          ► <b><a href="https://github.com/BerriAI/litellm" style="color: #58A6FF; text-decoration: none;">BerriAI/litellm</a></b> (Call 100+ LLM APIs)<br/>
+          ► <b><a href="https://github.com/langchain-ai/langchain" style="color: #58A6FF; text-decoration: none;">langchain-ai/langchain</a></b> (LLM app framework)<br/>
+          ► <b><a href="https://github.com/confident-ai/deepeval" style="color: #58A6FF; text-decoration: none;">confident-ai/deepeval</a></b> (LLM evaluation framework)<br/>
+          ► <b><a href="https://github.com/agno-agi/agno" style="color: #58A6FF; text-decoration: none;">agno-agi/agno</a></b> (Autonomous AI agent framework)
+        </span>
       </blockquote>
       <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
-        <b>Distributed Systems:</b> <br/><span style="color: #8B949E; font-size: 13px;">L1 protocols, consensus mechanics, cross-chain bridging, Web3 infra.</span>
-      </blockquote>
-      <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
-        <b>Full-Stack & Swift:</b> <br/><span style="color: #8B949E; font-size: 13px;">Scalable backends, complex UI implementation, iOS native dev.</span>
+        <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Swift" /> <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Dart" /> <br/>
+        <b>Native Mobile & Desktop:</b> <br/>
+        <span style="color: #8B949E; font-size: 13px;">
+          ► <b><a href="https://github.com/themavik/ClipBook" style="color: #58A6FF; text-decoration: none;">ClipBook (Swift)</a></b> (Native clipboard manager)<br/>
+          ► <b><a href="https://github.com/onon-club/Ohga-App" style="color: #58A6FF; text-decoration: none;">Ohga-App (Dart)</a></b> (Cross-platform client)<br/>
+          ► <b><a href="https://github.com/themavik/MouseUtilityPro" style="color: #58A6FF; text-decoration: none;">MouseUtilityPro (Swift)</a></b> (macOS utility)
+        </span>
       </blockquote>
     </td>
   </tr>
@@ -139,17 +182,17 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themavik&layout=compact&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
   </picture>
 
-  <!-- Activity Graph -> Strict transparent `bg_color=00000000` -->
+  <!-- REPLACED Activity Graph with 3D Profile Trophies to show achievements -->
   <picture>
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=themavik&bg_color=00000000&color=ffffff&line=555555&point=ffffff&hide_border=true"
+      srcset="https://github-profile-trophy.vercel.app/?username=themavik&theme=onedark&no-frame=true&row=1&margin-w=15"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=themavik&bg_color=00000000&color=000000&line=aaaaaa&point=000000&hide_border=true"
+      srcset="https://github-profile-trophy.vercel.app/?username=themavik&theme=flat&no-frame=true&row=1&margin-w=15"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=themavik&bg_color=00000000&color=ffffff&line=555555&point=ffffff&hide_border=true" width="48%" alt="Activity Graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=themavik&theme=onedark&no-frame=true&row=1&margin-w=15" width="48%" alt="Trophies" />
   </picture>
 </div>
 
@@ -162,6 +205,30 @@
     <!-- Note: CSS filter enforces grayscale on the snake SVG output -->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/themavik/themavik/output/github-contribution-grid-snake.svg" style="filter: grayscale(100%);">
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
+</div>
+
+### ▨ SYSTEM INTERACTIVE (MINI-GAME)
+
+<div align="center">
+  <p><i>Take a break from the infrastructure. Play a quick game of 2048 directly in your browser.</i></p>
+  <a href="https://play2048.co/">
+    <img src="https://img.shields.io/badge/PLAY_NOW-000000?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff" alt="Play 2048" />
+    <br/><br/>
+    <pre style="font-family: monospace; color: #00F0FF; background-color: #0d1117; font-weight: bold; font-size: 13px; line-height: 1.2; text-align: center; display: inline-block; padding: 15px; border: 1px solid #30363D; border-radius: 8px;">
++-------------------+
+|   2   |   8   |   |
+|-------+-------+---|
+|  16   |  64   | 4 |
+|-------+-------+---|
+|  128  |   2   |   |
++-------------------+
+ > [CLICK TO PLAY] < 
+    </pre>
+  </a>
 </div>
 
 <div align="center">
