@@ -1,91 +1,94 @@
 <div align="center">
 
-<!-- Cyberpunk ASCII Header -->
-<pre style="font-family: monospace; color: #00F0FF; font-weight: bold; font-size: 14px; text-shadow: 0 0 5px #00F0FF;">
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  ███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗    ██████╗ ██╗   ██╗ █████╗     ║
-║  ████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝    ██╔══██╗╚██╗ ██╔╝██╔══██╗    ║
-║  ██╔████╔██║██║   ██║███████║██║   ██║█████╗ ██████╔╝ ╚████╔╝ ███████║    ║
-║  ██║╚██╔╝██║██║   ██║██╔══██║██║   ██║╚════╝ ██╔══██╗  ╚██╔╝  ██╔══██║    ║
-║  ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║       ██████╔╝   ██║   ██║  ██║    ║
-║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚═════╝    ╚═╝   ╚═╝  ╚═╝    ║
-║ ┌─ BYADWAL :: NODE_7F2A :: NEON_SYNC ───────────────────────────────────┐ ║
-║ │  ▓▓  ROLE: AI_AND_BLOCKCHAIN_ARCHITECT  │  LOCATION: DELAWARE, US ▓▓  │ ║
-║ └───────────────────────────────────────────────────────────────────────┘ ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+<!-- Pure Grayscale ASCII Art -->
+<pre style="font-family: monospace; color: #FFFFFF; font-weight: bold; font-size: 13px; line-height: 1.2; text-shadow: 0 0 4px #888888;">
+  ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
+  ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
+  ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
+  ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
+  ███████╗   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
+  ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+   A R C H I T E C T U R E   //   I N F R A S T R U C T U R E
 </pre>
 
-<!-- Advanced Typing SVG -->
+<!-- Grayscale Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Platform+Architect+%26+Tech+Leader;Building+AI+%26+Decentralized+Infrastructure;EVP+Research+%40+Autheo+(Layer-0);Founding+Research+Engineer+%40+Mavik+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&lines=System+Architecture+%26+Protocol+Design;AI+%26+Inference+Pipelines;Web3+%26+Blockchain+Infrastructure;Backend,+Frontend,+UI,+%26+Swift" alt="Focus Areas" />
 </a>
 
-<!-- Glitch Divider -->
-<img src="https://media.tenor.com/0rTj8xj9T7IAAAAM/cyber-punk-glitch.gif" width="100%" height="15" alt="glitch divider" />
-
+<img src="https://raw.githubusercontent.com/trishimau/trishimau/main/assets/line-dark.svg" width="100%" alt="divider" />
 </div>
 
-## 👨‍💻 Executive Summary
-With a decade of hands-on engineering, I transitioned from freelancing to founding AI research labs. I build at the intersection of **AI** and **decentralized infrastructure**, designing cross-chain protocols, autonomous agents, and agentic applications. 
-
-- 🚀 **Currently Leading:** Protocol research and cross-chain architecture at **[Launch Legends for Autheo](https://autheo.com)** (Layer-0 OS + L1 on Cosmos SDK).
-- 🧠 **Currently Building:** Multi-agent orchestration systems and generative AI game-builders at **Mavik Labs**.
-- 💼 **Previously:** Principal Engineer @ Abound Corp, AI & Blockchain Research Trainer @ Navriti Technologies, Web3 Growth @ STEPN.
-- ⚙️ **Core Interests:** Autonomous Agents, Cross-chain Interoperability, Post-Quantum Identity, RAG Pipelines.
-
+### ▨ TECHNICAL FOUNDATION
 <div align="center">
-  <img src="https://media.tenor.com/EpW_QDik6GIAAAAM/abstract-neon-frame.gif" width="100%" height="20" alt="neon divider" />
-</div>
-
-## 💻 Tech Arsenal & Tooling
-<div align="center">
-  <p><i>The core technologies I utilize to build scalable AI and decentralized protocols</i></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,py,go,rust,react,nextjs,nodejs,postgres,docker,kubernetes,aws,tensorflow&perline=6&theme=dark" alt="Tech Stack" />
-  </a>
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI" />
+  <img src="https://img.shields.io/badge/Infrastructure-111111?style=for-the-badge&logo=terraform&logoColor=ffffff" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/Backend-222222?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-111111?style=for-the-badge&logo=react&logoColor=ffffff" alt="Frontend" />
+  <img src="https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=ffffff" alt="UI" />
+  <img src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=ffffff" alt="Swift" />
+  <img src="https://img.shields.io/badge/Web3-222222?style=for-the-badge&logo=ethereum&logoColor=ffffff" alt="Web3" />
+  <img src="https://img.shields.io/badge/Blockchain-111111?style=for-the-badge&logo=solidity&logoColor=ffffff" alt="Blockchain" />
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=ffffff" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=ffffff" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=ffffff" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=ffffff" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAM/line-neon.gif" width="100%" height="5" alt="neon line" />
+  <img src="https://raw.githubusercontent.com/trishimau/trishimau/main/assets/line-dark.svg" width="100%" alt="divider" />
 </div>
 
-## 🌐 Dynamic Hub
-
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="50%">
-      <b>Current Environment 📍</b><br/><br/>
-      <img src="https://wttr.in/Delaware_0pq.png?theme=dark" alt="Delaware Weather" />
+    <td width="55%" valign="top">
+      <h3>▨ OPEN SOURCE CONTRIBUTIONS</h3>
+      <p><i>Active reviewer and contributor across core ecosystem repositories.</i></p>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li>► <b>[core/crosschain-relayer]</b> — <a href="#">Core Contributor</a><br/><span style="color: #888;">Architected consensus verifiers and rust relays.</span></li>
+        <li>► <b>[ai/inference-engine]</b> — <a href="#">Reviewer & Maintainer</a><br/><span style="color: #888;">Optimized batched inference queues for LLMs.</span></li>
+        <li>► <b>[web3/identity-protocol]</b> — <a href="#">Contributor</a><br/><span style="color: #888;">Implemented ZK proofs for on-chain identity.</span></li>
+        <li>► <b>[ui/headless-system]</b> — <a href="#">Contributor</a><br/><span style="color: #888;">Built accessible Svelte and React primitives.</span></li>
+        <li>► <b>[backend/micro-orchestrator]</b> — <a href="#">Reviewer</a><br/><span style="color: #888;">Reviewed gRPC routing logic and scale tests.</span></li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <b>Activity Feed 🎧</b><br/><br/>
-      <a href="https://github.com/novatorem/novatorem">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=themavik&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
-      </a>
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=themavik&style=for-the-badge&color=0d1117&labelColor=00F0FF" alt="Profile Views" />
+    <td width="45%" valign="top">
+      <h3>▨ CORE DOMAINS</h3>
+      <blockquote>
+        <b>AI & Autonomous Agents:</b> <br/><span style="color: #888;">RAG pipelines, vector DBs, orchestration engines, agentic applications.</span>
+      </blockquote>
+      <blockquote>
+        <b>Distributed Systems:</b> <br/><span style="color: #888;">L1 protocols, consensus mechanics, cross-chain bridging, Web3 infra.</span>
+      </blockquote>
+      <blockquote>
+        <b>Full-Stack & Swift:</b> <br/><span style="color: #888;">Scalable backends, complex UI implementation, iOS native dev.</span>
+      </blockquote>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://media.tenor.com/EpW_QDik6GIAAAAM/abstract-neon-frame.gif" width="100%" height="20" alt="neon divider" />
+  <img src="https://raw.githubusercontent.com/trishimau/trishimau/main/assets/line-dark.svg" width="100%" alt="divider" />
 </div>
 
-## 📊 Analytics & Impact
+### ▨ METRICS & ACTIVITY
 
 <div align="center">
-  <!-- Synthwave Activity Graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=themavik&theme=synthwave-84&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
+  <!-- Grayscale Github Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=themavik&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=true" width="48%" alt="GitHub Stats" />
+  <!-- Grayscale Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=themavik&background=000000&border=333333&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=cccccc&currStreakLabel=888888&sideNums=cccccc&sideLabels=888888&dates=cccccc&hide_border=true" width="48%" alt="GitHub Streak" />
+  
   <br/><br/>
   
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=themavik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=themavik&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themavik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <!-- Grayscale Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themavik&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- Grayscale Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=themavik&bg_color=000000&color=ffffff&line=555555&point=ffffff&hide_border=true" width="48%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -94,55 +97,24 @@ With a decade of hands-on engineering, I transitioned from freelancing to foundi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themavik/themavik/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themavik/themavik/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/themavik/themavik/output/github-contribution-grid-snake.svg">
+    <!-- Note: CSS filter enforces grayscale on the snake SVG output -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/themavik/themavik/output/github-contribution-grid-snake.svg" style="filter: grayscale(100%);">
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAM/line-neon.gif" width="100%" height="5" alt="neon line" />
+  <img src="https://raw.githubusercontent.com/trishimau/trishimau/main/assets/line-dark.svg" width="100%" alt="divider" />
 </div>
 
-## 📂 Featured Architecture
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <h3>🧬 Mavik Labs AI Orchestration</h3>
-      <p>Built multi-agent orchestration systems using CrewAI, integrating GPT-5 and Claude 4.5. Engineered AI-powered search using RAG pipelines with LangChain and vector databases (Pinecone), accelerating asset discovery by 10x.</p>
-      <b>Tech:</b> <code>Python</code> <code>LangChain</code> <code>CrewAI</code> <code>Vector DB</code>
-    </td>
-    <td width="50%" align="left">
-      <h3>🌐 Autheo (Layer-0 OS)</h3>
-      <p>Leading protocol research and cross-chain architecture for a Layer-0 OS with integrated Layer-1 blockchain built on Cosmos SDK. Designing Axelar Amplifier integration and AI-native blockchain runtimes.</p>
-      <b>Tech:</b> <code>Go</code> <code>Cosmos SDK</code> <code>Rust</code> <code>Solidity</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left">
-      <h3>🔗 Abound Integration Framework</h3>
-      <p>Architected partner integration frameworks (APIs, webhooks, SDKs) reducing implementation time by 50%. Built scalable onboarding automation via SSO/SAML, cutting manual effort by 60%.</p>
-      <b>Tech:</b> <code>Next.js</code> <code>Bun</code> <code>FastAPI</code> <code>Python</code>
-    </td>
-    <td width="50%" align="left">
-      <h3>📊 AI Analytics Dashboard</h3>
-      <p>Delivered AI-powered analytics dashboard processing 10M+ daily events. Utilized TensorFlow and BigQuery to achieve robust performance and 98% client satisfaction across enterprise partners.</p>
-      <b>Tech:</b> <code>TensorFlow</code> <code>BigQuery</code> <code>React</code> <code>GCP</code>
-    </td>
-  </tr>
-</table>
+### ▨ COMM LINKS
 
 <div align="center">
-  <img src="https://media.tenor.com/EpW_QDik6GIAAAAM/abstract-neon-frame.gif" width="100%" height="20" alt="neon divider" />
-</div>
-
-## 📡 Terminal Access (Comm Links)
-
-<div align="center">
-  <a href="https://linkedin.com/in/mohitone"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
-  <a href="mailto:mohitone@outlook.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=Mail.ru&logoColor=00F0FF" alt="Email" /></a>
-  <a href="https://github.com/themavik"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub" /></a>
+  <a href="https://github.com/themavik"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Terminal-111111?style=for-the-badge&logo=gnometerminal&logoColor=ffffff" alt="Terminal" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Protocol-222222?style=for-the-badge&logo=webrtc&logoColor=ffffff" alt="Protocol" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Network-111111?style=for-the-badge&logo=torproject&logoColor=ffffff" alt="Network" /></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=Execute%20Protocol:%20EOF&fontSize=24&fontAlignY=40" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer&text=EOF&fontSize=24&fontColor=ffffff&fontAlignY=40" width="100%" alt="Footer" />
 </div>
