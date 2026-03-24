@@ -1,46 +1,22 @@
 <div align="center">
 
-<pre style="font-family: monospace; color: #E0E0E0; background-color: #0d1117; font-weight: bold; font-size: 10px; line-height: 1.1; text-align: left; display: inline-block; padding: 25px; border: 1px solid #30363D; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
-╭──────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│  🔴 🟡 🟢  ~ /system/architect/mavik                                                                 │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  @#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=│
-│  +**************************************************************************************************+│
-│  |/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*\/*|│
-│  +--------------------------------------------------------------------------------------------------+│
-│  |          ::: I S O M E T R I C   B U S   M A T R I X   ::  1 0 0 - C O L   F R A M E ::          |│
-│  +==================================================================================================+│
-│  |+-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-o==>-+-+-++-|│
-│  |    #################.#################.#################.#################.#################     |│
-│  |    @@.............@@.......@@@@@.......@@.............@@....@@@@@@@@@@@....@@...........@@..     |│
-│  |    @@@...........@@@......@@@@@@@......@@@...........@@@....@@@@@@@@@@@....@@..........@@...     |│
-│  |    @@@@.........@@@@.....@@@@@@@@@.....@@@@.........@@@@....@@@@@@@@@@@....@@.........@@....     |│
-│  |    @@@@@.......@@@@@....@@@@@@@@@@@....@@@@@.......@@@@@.......@@@@@.......@@........@@.....     |│
-│  |    @@@@@@.....@@@@@@...@@@@@@@@@@@@@...@@@@@@.....@@@@@@.......@@@@@.......@@.......@@......     |│
-│  |    @@@@@@@...@@@@@@@...@@@@@@@@@@@@@....@@@@.....@@@@..........@@@@@.......@@......@@.......     |│
-│  |    @@@@@@@@.@@@@@@@@...@@@@@...@@@@@.....@@@.....@@@...........@@@@@.......@@.....@@........     |│
-│  |    @@.@@@.@@@.@@@.@@...@@@@@...@@@@@......@@.....@@............@@@@@.......@@...@@@.........     |│
-│  |    @@..@@...@@...@@....@@@@@@@@@@@@@.......@.....@.............@@@@@.......@@@@@@@@.........     |│
-│  |    @@..@.....@...@@....@@@@@@@@@@@@@.......@@...@@.............@@@@@.......@@...@@@@........     |│
-│  |    @@............@@....@@@@@@@@@@@@@.......@@@.@@@.............@@@@@.......@@....@@@........     |│
-│  |    @@............@@....@@@@@...@@@@@........@@@@@..............@@@@@.......@@.....@@@.......     |│
-│  |    @@............@@....@@@@@...@@@@@.........@@@............@@@@@@@@@@@....@@......@@@......     |│
-│  |    @@............@@...@@@@@.....@@@@@.........@.............@@@@@@@@@@@....@@.......@@@.....     |│
-│  |    @@............@@...@@@@@.....@@@@@.......................@@@@@@@@@@@....@@........@@@....     |│
-│  |    @@............@@..@@@@@@@@@@@@@@@@@...................@@@@@@@@@@@@@@@@@.@@.........@@@...     |│
-│  |    ##............##..#################.#################.#################.#################     |│
-│  +--------------------------------------------------------------------------------------------------+│
-│  |      `^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^^~~v~~^'      |│
-│  +==================================================================================================+│
-│  |             0xDE 0xAD 0xBE 0xEF  |  TRACE_OK  |  LANE[0..7] = {~~~~~~~~}  |  CRC:OK              |│
-│  +**************************************************************************************************+│
-│  @#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=@#%=│
-│                                                                                                      │
-│   > ROLE: Platform Architect & Tech Leader                                                           │
-│   > DOMAINS: AI Inference, Web3, Distributed Systems, iOS Native                                     │
-│   > LOCATION: Delaware, United States                                                                │
-│                                                                                                      │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯
+<pre style="font-family: monospace; color: #E0E0E0; background-color: #0d1117; font-weight: bold; font-size: 13px; line-height: 1.2; text-align: left; display: inline-block; padding: 15px; border: 1px solid #30363D; border-radius: 8px;">
+╭──────────────────────────────────────────────────────────────────╮
+│ 🔴 🟡 🟢  ~ /system/architect/mavik                              │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│   ███╗   ███╗ █████╗ ██╗   ██╗██╗██╗  ██╗                        │
+│   ████╗ ████║██╔══██╗██║   ██║██║██║ ██╔╝                        │
+│   ██╔████╔██║███████║██║   ██║██║█████╔╝                         │
+│   ██║╚██╔╝██║██╔══██║╚██╗ ██╔╝██║██╔═██╗                         │
+│   ██║ ╚═╝ ██║██║  ██║ ╚████╔╝ ██║██║  ██╗                        │
+│   ╚═╝     ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝                        │
+│                                                                  │
+│   > ROLE: Platform Architect & Tech Leader                       │
+│   > DOMAINS: AI Inference, Web3, Distributed Systems             │
+│   > LANGUAGES: Rust, Go, Python, TypeScript, Java, Swift         │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 </pre>
 
 <br/><br/>
@@ -50,7 +26,7 @@
 
 <!-- Grayscale Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A3A3A3&center=true&vCenter=true&width=700&lines=Platform+Architect+%26+Tech+Leader;Building+AI+%26+Decentralized+Infrastructure;EVP+Research+%40+Autheo;Founding+Research+Engineer+%40+Mavik+Labs" alt="Focus Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A3A3A3&center=true&vCenter=true&width=700&lines=Platform+Architect+%26+Tech+Leader;Building+AI+%26+Decentralized+Infrastructure;Open+Source+Contributor" alt="Focus Areas" />
 </a>
 
 </div>
@@ -76,6 +52,7 @@
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=java&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Java" />
   <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="AWS" />
   <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Docker" />
@@ -122,12 +99,11 @@
         </span>
       </blockquote>
       <blockquote style="border-left: 3px solid #30363D; color: #C9D1D9; padding-left: 10px; margin-left: 0;">
-        <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Swift" /> <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Dart" /> <br/>
-        <b>Native Mobile & Desktop:</b> <br/>
+        <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Go" /> <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=java&logoColor=ffffff&color=161b22&labelColor=0d1117" alt="Java" /> <br/>
+        <b>Core Services & Enterprise:</b> <br/>
         <span style="color: #8B949E; font-size: 13px;">
-          ► <b><a href="https://github.com/themavik/ClipBook" style="color: #58A6FF; text-decoration: none;">ClipBook (Swift)</a></b> (Native clipboard manager)<br/>
-          ► <b><a href="https://github.com/onon-club/Ohga-App" style="color: #58A6FF; text-decoration: none;">Ohga-App (Dart)</a></b> (Cross-platform client)<br/>
-          ► <b><a href="https://github.com/themavik/MouseUtilityPro" style="color: #58A6FF; text-decoration: none;">MouseUtilityPro (Swift)</a></b> (macOS utility)
+          ► <b>System Architectures</b> (Designed & reviewed distributed systems in Go/Java)<br/>
+          ► <b>Enterprise Integrations</b> (Built scalable backends & microservices)
         </span>
       </blockquote>
     </td>
@@ -205,30 +181,6 @@
     <!-- Note: CSS filter enforces grayscale on the snake SVG output -->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/themavik/themavik/output/github-contribution-grid-snake.svg" style="filter: grayscale(100%);">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&width=100%" alt="divider" />
-</div>
-
-### ▨ SYSTEM INTERACTIVE (MINI-GAME)
-
-<div align="center">
-  <p><i>Take a break from the infrastructure. Play a quick game of 2048 directly in your browser.</i></p>
-  <a href="https://play2048.co/">
-    <img src="https://img.shields.io/badge/PLAY_NOW-000000?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff" alt="Play 2048" />
-    <br/><br/>
-    <pre style="font-family: monospace; color: #00F0FF; background-color: #0d1117; font-weight: bold; font-size: 13px; line-height: 1.2; text-align: center; display: inline-block; padding: 15px; border: 1px solid #30363D; border-radius: 8px;">
-+-------------------+
-|   2   |   8   |   |
-|-------+-------+---|
-|  16   |  64   | 4 |
-|-------+-------+---|
-|  128  |   2   |   |
-+-------------------+
- > [CLICK TO PLAY] < 
-    </pre>
-  </a>
 </div>
 
 <div align="center">
